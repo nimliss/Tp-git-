@@ -1,0 +1,29 @@
+commit 5ec46dc77827a55ad7ef9efa68cd2325ae5d5431
+Author: Antoine <antoine958.ad@gmail.com>
+Date:   Fri Feb 8 11:14:39 2019 +0100
+
+    display copyright
+
+commit 8d208ee3f920ee0e1ea3236f8b33982f2a927cd6
+Author: Antoine <antoine958.ad@gmail.com>
+Date:   Fri Feb 8 11:12:50 2019 +0100
+
+    Add file header
+
+commit 743c45e508657471401f4b63ee3f5ea706900f18
+Author: Antoine <antoine958.ad@gmail.com>
+Date:   Fri Feb 8 11:11:30 2019 +0100
+
+    Add build time
+
+commit a6c35fc5d7e3e6ef98fc067a442b3292b76c7dd9
+Author: Antoine <antoine958.ad@gmail.com>
+Date:   Fri Feb 8 11:09:33 2019 +0100
+
+    Initial commit
+
+commit 7d9c892b55a1a934280b8c87df0106d2fe23683c
+Author: Antoine <antoine958.ad@gmail.com>
+Date:   Fri Feb 8 11:01:53 2019 +0100
+
+    Initial commit
